@@ -1,4 +1,4 @@
-public class Interface {
+public class Inter {
     public static void main(String[] args) {
 
         interface Interface1 {
@@ -84,5 +84,3 @@ public class Interface {
         finalObj.finalMethod();
     }
 }
-
-
