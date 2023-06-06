@@ -1,3 +1,6 @@
+// Reverse of java file
+
+
 import java.util.Scanner;
 public class reverse
 {
