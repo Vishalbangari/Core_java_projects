@@ -23,14 +23,14 @@ public class Hashmaps {
 
 
         public static void main(String[] args) {
-            students.add(new Hashmaps("s", "s1", 4.0));
-            students.add(new Hashmaps("hardy", "s2", 3.0));
-            students.add(new Hashmaps("cena", "s3", 3.5));
-            students.add(new Hashmaps("cena", "s4", 3.5));
-            students.add(new Hashmaps("cena", "s5", 3.5));
-            students.add(new Hashmaps("cena", "s6", 3.5));
-            students.add(new Hashmaps("cena", "s7", 3.5));
-            students.add(new Hashmaps("cena", "s8", 3.5));
+            students.add(new Hashmaps("Vishal", "A1", 4.0));
+            students.add(new Hashmaps("Ram", "A2", 3.0));
+            students.add(new Hashmaps("Raj", "A3", 3.5));
+            students.add(new Hashmaps("Roja", "A4", 3.5));
+            students.add(new Hashmaps("Ray", "A5", 3.5));
+            students.add(new Hashmaps("Rana", "A6", 3.5));
+            students.add(new Hashmaps("Reetha", "A7", 3.5));
+            students.add(new Hashmaps("Rohith", "A8", 3.5));
 
             HashMap<String,Hashmaps> hm=new HashMap<String,Hashmaps>();
             for (Hashmaps st:students) {
